@@ -49,4 +49,7 @@ if g:fcitxcmd
   set timeoutlen=150
   autocmd InsertLeave * call Fcitx2en()
   autocmd InsertEnter * call Fcitx2zh()
+else
+  unlet g:fcitxcmd
+  unlet g:input_toggle
 endif
