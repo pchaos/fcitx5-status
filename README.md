@@ -12,7 +12,7 @@
 
 直接安装即可
 
-### SpaceVime
+### SpaceVim
 添加以下内容到 ~/.SpaceVim.d/init.toml :
 
 ```toml
