@@ -15,8 +15,9 @@
 ### SpaceVime
 添加以下内容到 ~/.SpaceVim.d/init.toml :
 
+```toml
 [[custom_plugins]]
   # 中文自动切换
   name = "pchaos/fcitx5-status"
   merged=0
-
+```
