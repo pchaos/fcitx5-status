@@ -10,9 +10,16 @@
 ## 安装
 ----
 
-直接安装即可
+## Use Vundle
+Add this in your .vimrc
 
-### SpaceVim
+>Plugin pchaos/fcitx5-status'
+
+Next,open vim and execute this
+
+>:BundleInstall
+
+### Use SpaceVim
 添加以下内容到 ~/.SpaceVim.d/init.toml :
 
 ```toml
