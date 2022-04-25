@@ -3,12 +3,12 @@
 
 在离开/重新进入插入模式时自动切换输入法状态，以便在普通模式下始终是英文输入模式，切换回插入模式时恢复离开时的输入法输入模式。仅仅是将[通过命令控制Fcitx](http://fcitx.github.com/handbook/chapter-remote.html)里面的代码变成了插件形式。
 
-## 要求
+## * 要求
 支持fcitx4、fcitx5。其他fcitx版本未经测试。
 
-## 安装
+## * 安装
 
-## Use Vundle
+### Use Vundle
 Add this in your .vimrc
 
 >Plugin pchaos/fcitx5-status'
