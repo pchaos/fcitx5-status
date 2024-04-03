@@ -31,10 +31,10 @@ Next,open vim and execute this
   merged=0
 ```
 
-### lazy.nvim
+### Use lazy.nvim
 
 ```lua
-  { -- 返回到 normal 模式时快速切换为英文输入法
-    "pchaos/fcitx5-status",
-  },
+{ -- 返回到 normal 模式时快速切换为英文输入法
+"pchaos/fcitx5-status",
+},
 ```
